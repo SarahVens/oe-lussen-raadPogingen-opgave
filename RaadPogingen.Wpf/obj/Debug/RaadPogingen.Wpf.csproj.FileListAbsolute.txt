@@ -1,0 +1,15 @@
+D:\PRB\H07\RaadPogingen\RaadPogingen.Wpf\bin\Debug\RaadPogingen.Wpf.exe.config
+D:\PRB\H07\RaadPogingen\RaadPogingen.Wpf\bin\Debug\RaadPogingen.Wpf.exe
+D:\PRB\H07\RaadPogingen\RaadPogingen.Wpf\bin\Debug\RaadPogingen.Wpf.pdb
+D:\PRB\H07\RaadPogingen\RaadPogingen.Wpf\obj\Debug\RaadPogingen.Wpf.csprojAssemblyReference.cache
+D:\PRB\H07\RaadPogingen\RaadPogingen.Wpf\obj\Debug\MainWindow.g.cs
+D:\PRB\H07\RaadPogingen\RaadPogingen.Wpf\obj\Debug\App.g.cs
+D:\PRB\H07\RaadPogingen\RaadPogingen.Wpf\obj\Debug\RaadPogingen.Wpf_MarkupCompile.cache
+D:\PRB\H07\RaadPogingen\RaadPogingen.Wpf\obj\Debug\RaadPogingen.Wpf_MarkupCompile.lref
+D:\PRB\H07\RaadPogingen\RaadPogingen.Wpf\obj\Debug\MainWindow.baml
+D:\PRB\H07\RaadPogingen\RaadPogingen.Wpf\obj\Debug\RaadPogingen.Wpf.g.resources
+D:\PRB\H07\RaadPogingen\RaadPogingen.Wpf\obj\Debug\RaadPogingen.Wpf.Properties.Resources.resources
+D:\PRB\H07\RaadPogingen\RaadPogingen.Wpf\obj\Debug\RaadPogingen.Wpf.csproj.GenerateResource.cache
+D:\PRB\H07\RaadPogingen\RaadPogingen.Wpf\obj\Debug\RaadPogingen.Wpf.csproj.CoreCompileInputs.cache
+D:\PRB\H07\RaadPogingen\RaadPogingen.Wpf\obj\Debug\RaadPogingen.Wpf.exe
+D:\PRB\H07\RaadPogingen\RaadPogingen.Wpf\obj\Debug\RaadPogingen.Wpf.pdb
